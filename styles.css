@@ -1,5 +1,20 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+    background: rgb(235, 245, 225);
+    font-style: oblique;
+    
+}
+
+
+
 .prototype{
     display: none;
+    
+   
+
 
 }
 .hidden{
